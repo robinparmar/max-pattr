@@ -1,0 +1,37 @@
+{
+	"pattrstorage" : 	{
+		"name" : "demo",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"fpath" : [ "C:/Logs/" ],
+					"addsynth::osc1f" : [ 20 ],
+					"addsynth::osc2f" : [ 20 ],
+					"addsynth::osc3f" : [ 20 ],
+					"addsynth::osc1on" : [ 0 ],
+					"addsynth::osc2on" : [ 0 ],
+					"addsynth::osc3on" : [ 0 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"fpath" : [ "D:/downloads/" ],
+					"addsynth::osc1f" : [ 105 ],
+					"addsynth::osc2f" : [ 438 ],
+					"addsynth::osc3f" : [ 128 ],
+					"addsynth::osc1on" : [ 1 ],
+					"addsynth::osc2on" : [ 0 ],
+					"addsynth::osc3on" : [ 1 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
